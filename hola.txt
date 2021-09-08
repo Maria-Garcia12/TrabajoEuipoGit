@@ -1,2 +1,6 @@
 Hola muchahos!!!
+<<<<<<< HEAD
 Moficiado Maria
+=======
+Hola, soy Lula
+>>>>>>> 835ca38d2210445bb306eeb8cf766bf3359a45b8
